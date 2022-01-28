@@ -1,2 +1,2 @@
 # logistic-regression-on-CIFAR-10
-Describes a logistic regression model with Keras API of TensorFlow using CIFAR-10 dataset. This is a assignment of my course "deep learning with convolution neural networks" at the M.Sc. program of University of Manitoba.
+The classification on the CIFAR-10 dataset of 50,000 training images has been improved in this project. This is achieved by the logistic regression model with Keras API of TensorFlow.
