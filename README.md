@@ -1,4 +1,4 @@
-# Logistic Regression Based CNN Model for Object Recognition on CIFAR-10 Data
+# Convolution Neural Network for Object Recognition on CIFAR-10 Data
 
 ## About the Project
 **Data:** CIFAR-10 (Training data: 50,000 images; Testing data: 10,000 images)<br >
